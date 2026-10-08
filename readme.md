@@ -4,6 +4,10 @@ A KiCad hardware design for a compact M.2 Key A sensor module built around the R
 
 > **Project status:** Work in progress. The repository contains KiCad design files only; it does not include firmware or establish plug-and-play ArduPilot compatibility. The current design has outstanding KiCad ERC/DRC violations and is not ready for fabrication or flight use.
 
+## GitHub repository description
+
+> KiCad design for an M.2 Key A RP2350B sensor module featuring an MPU-9250 IMU and BME280, intended for UAV and ArduPilot integration experiments.
+
 ## Design overview
 
 - **MCU:** RP2350B
@@ -50,4 +54,3 @@ Treat the design as experimental. Verify the schematic, PCB rules, power rails, 
 
 - [ArduPilot sensor drivers and supported communication protocols](https://ardupilot.org/dev/docs/code-overview-sensor-drivers.html)
 - [MPU-9250 datasheet](https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf)
-
