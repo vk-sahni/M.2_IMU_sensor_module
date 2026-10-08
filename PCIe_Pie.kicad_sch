@@ -1,0 +1,290 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "e8f96bd5-4cda-4db8-872b-4e3661265ae5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 44.45 19.05)
+		(size 25.4 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "28662e56-f382-4c1d-9718-21b511ab60ac")
+		(property "Sheetname" "MCU"
+			(at 44.45 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 44.45 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 73.66 19.05)
+		(size 33.02 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "573db94d-b2b2-4fed-959a-503c9063f8ca")
+		(property "Sheetname" "Memory&TF_Card"
+			(at 73.66 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Memory&TF_Card.kicad_sch"
+			(at 73.66 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 19.05)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5946c450-d7a4-428a-8b70-881e89dd501c")
+		(property "Sheetname" "LDO"
+			(at 16.51 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LDO.kicad_sch"
+			(at 16.51 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 110.49 19.05)
+		(size 27.94 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "6e1bb90d-4049-47f7-aad8-599ad6d6d609")
+		(property "Sheetname" "Connector"
+			(at 110.49 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Connector.kicad_sch"
+			(at 110.49 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 140.97 19.05)
+		(size 22.86 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "82bfe7b3-f54b-4b1e-a08f-b8079b5f4b76")
+		(property "Sheetname" "BME280"
+			(at 140.97 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BME280.kicad_sch"
+			(at 140.97 32.3346 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 173.99 19.05)
+		(size 25.4 11.43)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "c5285225-095b-4c33-a8b2-7b25594058b7")
+		(property "Sheetname" "PCI_M.2_CONNECTOR"
+			(at 173.99 18.3384 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PCI_M.2_CONNECTOR.kicad_sch"
+			(at 173.99 31.0646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PCIe_Pie"
+				(path "/e8f96bd5-4cda-4db8-872b-4e3661265ae5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

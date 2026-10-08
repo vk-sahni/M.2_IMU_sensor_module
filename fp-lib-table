@@ -1,0 +1,9 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "XC6220B331PR-G") (type "KiCad") (uri "/home/vishal/Documents/Vishal/UPWORK/Hardware/lib/ul_XC6220B331PR-G/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "ABM8-272-T3") (type "KiCad") (uri "${LIB}/ul_ABM8-272-T3/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "W25Q128JVSIQ") (type "KiCad") (uri "${LIB}/ul_W25Q128JVSIQ/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "APS6404L-3SQR-SN") (type "KiCad") (uri "${LIB}/ul_APS6404L-3SQR-SN/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "MBRM140T1G") (type "KiCad") (uri "${LIB}/ul_MBRM140T1G/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "PESD5V0S1BB") (type "KiCad") (uri "${LIB}/ul_PESD5V0S1BB/KiCADv6/footprints.pretty") (options "") (descr ""))
+)
